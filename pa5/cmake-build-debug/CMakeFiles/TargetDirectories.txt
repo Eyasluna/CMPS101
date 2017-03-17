@@ -1,0 +1,3 @@
+/Users/megatron/Desktop/CMPS101/PJ002/pa5/pa5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/megatron/Desktop/CMPS101/PJ002/pa5/pa5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/megatron/Desktop/CMPS101/PJ002/pa5/pa5/cmake-build-debug/CMakeFiles/pa5.dir
